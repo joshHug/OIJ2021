@@ -422,7 +422,7 @@ The only difference is that we use the $$\Theta$$ symbol in the place of “orde
 
 {% embed url="https://youtu.be/yG5mYNR3aIU" caption="" %}
 
-Earlier, we used Big Theta to describe the order of growth of functions as well as code pieces. Recall that if $$R(N) \in \Theta(f(N))$$, then $$R(N)$$ is both upper and lower bounded by $$\Theta(f(N))$$. Describing runtime with both an upper and lower bound can informally be though of as runtime "equality".
+Earlier, we used Big Theta to describe the order of growth of functions as well as code pieces. Recall that if $$R(N) \in \Theta(f(N))$$, then $$R(N)$$ is both upper and lower bounded by $$\Theta(f(N))$$. Describing runtime with both an upper and lower bound can informally be thought of as runtime "equality".
 
 Some examples:
 
